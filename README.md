@@ -1,6 +1,6 @@
 # OpenCV
 
-1)   git clone 
+1)   git clone https://github.com/abdulhatov/OpenCV.git
 2)   виртуалдык чөйрө түзүү  "python3 -m venv venv"
 3)   виртуалдык чөйрөнү активдештирүү  "source venv/bin/activate" 
 4)   "KnowFaces" атуу папка жаратып ичине таанылуусу керек болгон инсандардын сурөттөрүн жайгаштыруу.Сүрөттүн аты адамдын аты менен дал келүүсү керек
